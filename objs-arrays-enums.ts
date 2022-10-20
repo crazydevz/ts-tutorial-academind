@@ -25,8 +25,8 @@ const person = {
 
 console.log(person.role);
 
-// person.role.push('admin'); // Doesn't throw a runtime error
-// person.role[1] = 10; // Throws a runtime error
+// person.role.push('admin'); // Doesn't throw compile time error
+// person.role[1] = 10; // Throws compile time error
 
 let favActivities: string[];
 favActivities = ['sleeping', 'hiking'];
