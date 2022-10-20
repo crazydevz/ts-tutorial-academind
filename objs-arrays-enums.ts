@@ -34,5 +34,5 @@ favActivities = ['sleeping', 'hiking'];
 console.log(person.name);
 for (const hobby of person.hobbies) {
 	console.log(hobby.toUpperCase());
-	// hobby.map(); Throws compile time error
+	// hobby.map(); // Throws compile time error
 }
