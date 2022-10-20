@@ -1,3 +1,5 @@
+export {};
+
 type Combinable = string | number;
 type ConversionDescriptor = 'as-number' | 'as-string';
 

@@ -18,6 +18,8 @@ combineValues = add;
 // combineValues = printResult;
 // combineValues = 5;
 
+export {};
+
 console.log(combineValues(7, 7));
 
 addAndHandle(3, 2, num => {

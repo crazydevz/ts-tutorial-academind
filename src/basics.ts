@@ -1,3 +1,5 @@
+export {};
+
 console.log("Let's get started!");
 
 function add(num1: number, num2: number, showResult: boolean, phrase: string) {
