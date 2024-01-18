@@ -1,0 +1,27 @@
+{
+	"name": "ts-tutorial-academind",
+	"version": "1.0.0",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/crazydevz/ts-tutorial-academind.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/crazydevz/ts-tutorial-academind/issues"
+	},
+	"homepage": "https://github.com/crazydevz/ts-tutorial-academind#readme",
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.40.1",
+		"@typescript-eslint/parser": "^5.40.1",
+		"eslint": "^8.25.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"prettier": "^2.7.1"
+	}
+}
